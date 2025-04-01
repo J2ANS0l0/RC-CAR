@@ -16,8 +16,8 @@
 #define pwmResolution 8
 
 // WiFi Config
-const char* SSID = "Philip";
-const char* PASSWORD = "simedas100pesos";
+const char* SSID = "";
+const char* PASSWORD = "";
 
 // UDP Config
 WiFiUDP udp;
