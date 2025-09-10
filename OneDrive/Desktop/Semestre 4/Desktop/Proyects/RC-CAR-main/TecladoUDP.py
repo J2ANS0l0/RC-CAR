@@ -29,7 +29,7 @@ def encode_keyboard_data():
     - Q/E: Left Trigger (LT) - Función secundaria
     - A/D: Joystick Left/Right - Dirección
     """
-    
+     
     # Initialize values
     rt_value = 0
     lt_value = 0
